@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "cas-drilldown-launcher",
+    "description": "Describe me",
+    "displayName": "Autoscaling and Elasticity",
+    "rootNerdletId": "cas-drilldown-nerdlet"
+}
